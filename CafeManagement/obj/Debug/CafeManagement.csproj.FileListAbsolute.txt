@@ -41,3 +41,10 @@ C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_C
 C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
 C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.exe
 C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.pdb
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.exe.config
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.exe.manifest
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.application
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.exe
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.pdb
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.exe.manifest
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.application

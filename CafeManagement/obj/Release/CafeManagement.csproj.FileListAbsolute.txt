@@ -1,0 +1,14 @@
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.exe.config
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.exe.manifest
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.application
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.exe
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.pdb
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.AssemblyReference.cache
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.Form1.resources
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.Properties.Resources.resources
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.GenerateResource.cache
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.CoreCompileInputs.cache
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.exe.manifest
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.application
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.exe
+C:\Users\jay.ahir\Desktop\PROJECTS\DOTNET\CAFE_BILLING_SYSTEM_IN_C_WITH_SOURCE_CODE (1)\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.pdb
